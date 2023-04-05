@@ -4,21 +4,27 @@
 
 <p>On my profile, you'll find a variety of projects that showcase my skills and demonstrate my coding abilities. I'm particularly proud of my most recent projects, which include: </p>
 
+<hr>
+
 <h3>Money Manager (React Web App)</h3>
 
-<p>Description: Manage and track your income and expenses with this easy to use web application. View transactions totals by month, quarterly or yearly and set a budget for each. Built with React, Next.js, Firebase, JavaScript, HTML and CSS.</p>
+<p><strong>Description:</strong> Manage and track your income and expenses with this easy to use web application. View transactions totals by month, quarterly or yearly and set a budget for each. Built with React, Next.js, Firebase, JavaScript, HTML and CSS.</p>
 
 <img src="https://www.zedchamaa.com/assets/images/money-manager-placeholder.png">
 
 <p><strong>Visit Site:</strong> <a target="_blank" href="https://money-manager.zedchamaa.com/">Money Manager React App</a></p>
 
+<hr>
+
 <h3>Sales Pipeline (React Web App)</h3>
 
-<p>Description: Streamline your sales process and close more deals with this intuitive and user-friendly sales pipeline app. Track your leads, identify your best opportunities, and move them through your pipeline with ease. Built with React, Firebase, JavaScript, HTML and CSS.</p>
+<p><strong>Description:</strong> Streamline your sales process and close more deals with this intuitive and user-friendly sales pipeline app. Track your leads, identify your best opportunities, and move them through your pipeline with ease. Built with React, Firebase, JavaScript, HTML and CSS.</p>
 
 <img src="https://www.zedchamaa.com/assets/images/sales-pipeline-placeholder.png">
 
 <p><strong>Visit Site:</strong> <a target="_blank" href="https://sales-pipeline.zedchamaa.com/">Sales Pipeline React App</a></p>
+
+<hr>
 
 <p>Feel free to browse through my repositories and check out my code. If you have any feedback or suggestions, I'd love to hear them.</p>
 
