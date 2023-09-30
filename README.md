@@ -2,7 +2,7 @@
 
 <p>Welcome to my GitHub profile! I'm a passionate front-end developer who enjoys creating clean and elegant interfaces that provide great user experiences.</p>
 
-<p>On my profile, you'll find a variety of projects that showcase my skills and demonstrate my coding abilities. I'm particularly proud of my most recent projects, which include: </p>
+<p>On my profile, you'll find a variety of side projects that showcase my skills and demonstrate my coding abilities, which include: </p>
 
 <hr>
 
