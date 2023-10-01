@@ -1,39 +1,23 @@
-<p>Hi there,</p>
+# Hi I'm Zed
 
-<p>Welcome to my GitHub profile! I'm a passionate front-end developer who enjoys creating clean and elegant interfaces that provide great user experiences.</p>
+I'm a front-end developer from the UK but now calling Sweden home. I spend most of my time coding and learning new skills.  
 
-<p>On my profile, you'll find a variety of side projects that showcase my skills and demonstrate my coding abilities, which include: </p>
+Check out my side projects portfolio at [zedchamaa.com](https://zedchamaa.com) 
 
-<hr>
+:mailbox: Get in touch!
 
-<h3>Money Manager (React Web App)</h3>
+[![Mail Badge](https://img.shields.io/badge/-zedchamaa-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:dev@zedchamaa.com)
+[![Linkedin Badge](https://img.shields.io/badge/-zedchamaa-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zedchamaa/)
 
-<p><strong>Description:</strong> Manage and track your income and expenses with this easy to use web application. View transactions totals by month, quarterly or yearly and set a budget for each. Built with React, Next.js, Firebase, JavaScript, HTML and CSS.</p>
+### What I currently Do
 
-<img src="https://www.zedchamaa.com/assets/images/money-manager-placeholder.png">
+- 🔭 I’m currently working as a front-end developer at FLEETM8
+- 📫 How to reach me: dev@zedchamaa.com
 
-<p><strong>Visit Site:</strong> <a target="_blank" href="https://money-manager.zedchamaa.com/">Money Manager React App</a></p>
+#### Top Technologies
 
-<hr>
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)
 
-<h3>Sales Pipeline (React Web App)</h3>
+#### Github Stats
 
-<p><strong>Description:</strong> Streamline your sales process and close more deals with this intuitive and user-friendly sales pipeline app. Track your leads, identify your best opportunities, and move them through your pipeline with ease. Built with React, Firebase, JavaScript, HTML and CSS.</p>
-
-<img src="https://www.zedchamaa.com/assets/images/sales-pipeline-placeholder.png">
-
-<p><strong>Visit Site:</strong> <a target="_blank" href="https://sales-pipeline.zedchamaa.com/">Sales Pipeline React App</a></p>
-
-<hr>
-
-<p>Feel free to browse through my repositories and check out my code. If you have any feedback or suggestions, I'd love to hear them.</p>
-
-<p>You can contact me through my GitHub profile or my email at <a href="mailto:dev@zedchamaa.com">dev@zedchamaa.com</a></p>
-
-<p>If you're interested in seeing more of my work, be sure to check out my portfolio website at <a target="_blank" href="https://zedchamaa.com/">zedchamaa.com</a>.</p>
-
-<p>I look forward to hearing your thoughts on my work, so don't hesitate to reach out to me with any questions or comments.</p>
-
-<p>Thanks again for visiting my GitHub profile!</p>
-
-<p>ZED CHAMAA</p>
+![Zed's github stats](https://github-readme-stats.vercel.app/api?username=zedchamaa&count_private=true&theme=tokyonight&hide=contribs,prs)
