@@ -6,7 +6,7 @@ Check out my side projects portfolio at [zedchamaa.com](https://zedchamaa.com)
 
 ### What I currently Do
 
-- I’m currently working as a front-end developer at FLEETM8
+- I’m currently working as a front-end developer at FLEETM8 in Stockholm
 
 #### Top Technologies
 
