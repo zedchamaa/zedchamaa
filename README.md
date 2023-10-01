@@ -11,8 +11,8 @@ Check out my side projects portfolio at [zedchamaa.com](https://zedchamaa.com)
 
 ### What I currently Do
 
-- 🔭 I’m currently working as a front-end developer at FLEETM8
-- 📫 How to reach me: dev@zedchamaa.com
+- I’m currently working as a front-end developer at FLEETM8
+- How to reach me: dev@zedchamaa.com
 
 #### Top Technologies
 
