@@ -1,12 +1,12 @@
 # Hi I'm Zed
 
-I'm a front-end developer from the UK but now calling Sweden home. I spend most of my time coding and learning new skills.  
+I'm a front-end developer from the UK. I spend most of my time coding and learning new skills.  
 
 Check out my side projects portfolio at [zedchamaa.com](https://zedchamaa.com) 
 
 ### What I currently Do
 
-- I’m currently working as a front-end developer at FLEETM8 in Stockholm
+- I’m currently working as a front-end developer focusing primarily on React and Next.js
 
 #### Top Technologies
 
