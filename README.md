@@ -11,4 +11,3 @@ I'm **Zed**, a passionate Full Stack Developer with a knack for building robust,
 
 ## 📫 Get in Touch  
 - **Email:** zed@kodfolk.se  
-- **Portfolio:** [zedchamaa.com](https://zedchamaa.com) 
