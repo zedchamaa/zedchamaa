@@ -1,18 +1,14 @@
-# Hi I'm Zed
+# Hi there 👋  
 
-I'm a front-end developer from the UK. I spend most of my time coding and learning new skills.  
+I'm **Zed**, a passionate Full Stack Developer with a knack for building robust, user-friendly, and scalable web applications.  
 
-Check out my side projects portfolio at [zedchamaa.com](https://zedchamaa.com) 
+## 💻 Tech Stack  
+- **Backend:** Laravel, PHP, MySQL  
+- **Frontend:** React, Next.js, JavaScript, TypeScript, HTML, CSS, SASS  
+- **CMS:** WordPress, Statamic  
 
-### What I currently Do
+🌟 I love turning ideas into reality through clean code and seamless user experiences.  
 
-- I’m currently working as a front-end developer focusing primarily on React and Next.js
-
-#### Top Technologies
-
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)
-
-:mailbox: Get in touch!
-
-[![Mail Badge](https://img.shields.io/badge/-zedchamaa-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:dev@zedchamaa.com)
-[![Linkedin Badge](https://img.shields.io/badge/-zedchamaa-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zedchamaa/)
+## 📫 Get in Touch  
+- **Email:** zed@kodfolk.se  
+- **Portfolio:** [zedchamaa.com](https://zedchamaa.com) 
